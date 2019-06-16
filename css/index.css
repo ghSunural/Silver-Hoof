@@ -1,0 +1,113 @@
+html{
+    /*font: 12px 'site-font' , serif;*/
+    /*letter-spacing: 2px;*/
+    font: 12px 'Arial' , serif;
+
+}
+
+
+.logo {
+
+    background: url(../resource/images/site/label.gif) no-repeat center;
+    background-size: 80%;
+
+    /* background: url(../resource/label.gif) #312899 no-repeat left top;*/
+    width: 100px;
+    height: 90%;
+}
+
+.Main_toolbar {
+    top: 0;
+   /* position: fixed;*/
+    height: 40px;
+    width: 100vw;
+    z-index: 100;
+    background: #3c7839;
+    opacity: 0.9;
+    justify-content: flex-start;
+
+}
+
+.Header {
+    margin-top: 40px;
+    /*background: linear-gradient(to right bottom, #ffffff 10%, #3c7839) ;*/
+    height: 100px;
+    justify-content: space-between;
+
+}
+
+.Main {
+    /*height: 80vh;*/
+    background: linear-gradient(to right bottom, #c3c8bc, #ffffff);
+    /* #F5F0F0*/
+}
+
+.content {
+    background: #F5F0F0;
+    width: 80%;
+
+}
+
+.href-button_minerals {
+    font-weight: bold;
+}
+
+.side-bar {
+
+    background: linear-gradient(to right, #c3c8bc 90%, #eae853 90%);
+    max-width: 400px;
+    width: 20vw;
+    /* padding-right: 0;*/
+
+}
+
+.reclame {
+    border: 1px solid #0f6674;
+    background: #9fcdff;
+    margin-right: 40px;
+
+}
+
+.catalog {
+    background: #9fcdff;
+    margin-right: 40px;
+
+}
+
+.Footer {
+    /*linear-gradient(to right, #ffffff 30 %, #3c7839 70 %);*/
+
+    height: 80vh;
+}
+
+
+.logo__title-site {
+
+    font: 40px 'Brush Script MT', serif;
+
+    font-weight: 900;
+    /*text-shadow: #ffd700 2px 2px;*/
+    letter-spacing: 6px;
+
+
+}
+
+.contact-info {
+    background: #9fcdff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
