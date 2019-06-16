@@ -2,6 +2,7 @@
 //FRONT CONTROLLER
 //namespace Application\Controllers;
 
+
 use Application as A;
 require_once "config/app_config.php";
 require_once SITE_ROOT."core/autoload.php";
