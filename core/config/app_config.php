@@ -21,6 +21,7 @@ const SITE_ROOT = "/public_html/";
 //Отчет об ошибках PHP
 define("DEBUG_MODE", false);
 
+
 if (DEBUG_MODE) {
     ini_set('display_errors',1);
     error_reporting(E_ALL);

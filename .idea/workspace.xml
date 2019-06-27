@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a1a191e-8429-44e4-a7b6-52753001e07e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app_config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/db_connect.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/protected/db_consts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routesList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/MMineral.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/MMineral.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/config/app_config.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/config/app_config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/core/config/app_config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="396">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -382,12 +373,12 @@
       <workItem from="1561543154106" duration="767000" />
       <workItem from="1561543950781" duration="3554000" />
       <workItem from="1561548759980" duration="170000" />
-      <workItem from="1561620735803" duration="16010000" />
+      <workItem from="1561620735803" duration="16012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244010000" />
+    <option name="totallyTimeSpent" value="244012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -715,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/config/app_config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="396">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
