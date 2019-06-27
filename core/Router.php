@@ -15,7 +15,7 @@ class Router
 
     public function __construct()
     {        //список маршрутов
-        $this->routes = require_once(SITE_ROOT . "config/routesList.php");
+        $this->routes = require_once(SITE_ROOT . "core/config/routesList.php");
     }
 
     /**
