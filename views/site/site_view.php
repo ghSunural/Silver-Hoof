@@ -6,6 +6,8 @@ use Application\Views as V;
 $goods = $this->models['goods'];
 A\Debug::print_array($goods);
 
+$test_widget = require_once(SITE_ROOT."views/elements/test_widget.php");
+
 
 function getBarMini($goods)
 {
@@ -78,12 +80,16 @@ $head_as_html = V\Html::getView_Head("Silver-Hoof", $styles);
 $footer_as_html = V\Html::getView_Footer("Footer block block_wrap main_bkg_color-1", "footer content")
 
 ?>
+
+
+
 <!DOCTYPE html>
 <html lang="ru">
 <?= $head_as_html ?>
 <body class="block block_wrap">
 
 <nav class="Main_toolbar block block_wrap fl fl-w">
+
     Главная страница
     <div class="block block_inline">
         <!-- <label for="search">Найти</label> -->
@@ -118,6 +124,7 @@ $footer_as_html = V\Html::getView_Footer("Footer block block_wrap main_bkg_color
                         <li>Камнерезные изделия</li>
                         <li>Кабашоны</li>
                         <li>Минералы</li>
+                        <?php echo $test_widget;?>
                     </ul>
         </nav>
 
